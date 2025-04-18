@@ -14,6 +14,7 @@ while True:
             F = 32 + 9/5*C
             msg = str(C)
             radio.send(msg)
+            display.scroll(msg)
             sleep(5)
     if button_b.was_pressed():  
         msg = ""

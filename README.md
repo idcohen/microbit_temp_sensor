@@ -1,2 +1,2 @@
-# microbit_temp_sensor
+# microbit Temperature Sensor
 Microbit Temperature Sensor

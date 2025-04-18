@@ -1,2 +1,2 @@
-# microbit Temperature Sensor
+# Microbit Temperature Sensor
 Microbit Temperature Sensor
